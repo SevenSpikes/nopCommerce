@@ -1,0 +1,4 @@
+[submodule "src/api-plugin-for-nopcommerce"]
+	path = src/api-plugin-for-nopcommerce
+	url = https://github.com/SevenSpikes/api-plugin-for-nopcommerce
+	branch = nopCommerce_4.00
